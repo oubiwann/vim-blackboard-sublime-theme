@@ -17,14 +17,14 @@ Blackboard is a Sublime package. To install it:
 
 1. Make a home for your code and then go there, e.g.:
 
-```shell
+```bash
 mkdir ~/lab/SublimeText
 cd ~/lab/SublimeText
-
 ```
+
 2. Clone the repo:
 
-```shell
+```bash
 git clone https://github.com/oubiwann/Theme-VimBlackboard.git
 ```
 
@@ -32,7 +32,7 @@ git clone https://github.com/oubiwann/Theme-VimBlackboard.git
    directory by selecting "Preferences > Browse Packages ...".
 4. From the package directory, link to your checkout:
 
-```shell
+```bash
 ln -s ~/lab/SublimeText/Theme-VimBlackboard/Theme\ -\ VimBlackboard .
 ```
 
