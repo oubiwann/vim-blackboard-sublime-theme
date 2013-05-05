@@ -3,26 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Robby Ingebretsen</string>
+	<string>Duncan McGreggor</string>
 	<key>comment</key>
-	<string>Blackboard</string>
+	<string>VimBlackboard</string>
 	<key>name</key>
-	<string>Blackboard</string>
+	<string>VimBlackboard</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#313437</string>
+				<string>#000000</string>
 				<key>caret</key>
-				<string>#FFFFFF</string>
+				<string>#00ff00</string>
 				<key>foreground</key>
-				<string>#ffffff</string>
+				<string>#00ff00</string>
 				<key>invisibles</key>
-				<string>#3B3B3B</string>
+				<string>#003300</string>
 				<key>selection</key>
-				<string>#3d8EF3</string>
+				<string>#666666</string>
 			</dict>
 		</dict>
 	</array>
