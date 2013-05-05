@@ -54,7 +54,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0433ff</string>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -80,7 +80,7 @@
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>foreground</key>
-				<string>#ff40ff</string>
+				<string>#ff9900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,7 +93,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#fffb00</string>
+				<string>#ffff00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -106,7 +106,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff4d41</string>
+				<string>#FF6666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff9300</string>
+				<string>#ff00ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -190,10 +190,8 @@
 			<string>string.quoted source</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#ff4d41</string>
+				<string>#FF9999</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +202,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0433ff</string>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 		<dict>
