@@ -46,6 +46,9 @@ Blackboard is a Sublime package. To install it:
       "color_scheme": "Packages/Theme - VimBlackboard/VimBlackboard.tmTheme"
     }
     ```
+    If you need help locating your user preferences file, you can find it selecting
+    "Preferences > Settings - User".
+
 6. Tweak futher by adding folder icons and classic tabs:
 
     ```javascript
@@ -54,5 +57,3 @@ Blackboard is a Sublime package. To install it:
       "vimbb_classic_tabs": true
     }
     ```
-If you need help locating your user preferences file, you can find it selecting
-"Preferences > Settings - User".
