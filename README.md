@@ -43,7 +43,7 @@ Blackboard is a Sublime package. To install it:
     ```javascript
     {
       "theme": "VimBlackboard.sublime-theme",
-      "color_scheme": "Packages/Theme-VimBlackboard/Theme - VimBlackboard/VimBlackboard.tmtheme"
+      "color_scheme": "Packages/Theme - VimBlackboard/VimBlackboard.tmTheme"
     }
     ```
 6. Tweak futher by adding folder icons and classic tabs:
