@@ -15,22 +15,27 @@ for any custom theme development for Sublime. Thanks Flatland!
 ## Installation
 Blackboard is a Sublime package. To install it:
 
-1. Make a home for your code and then go there, e.g.
-```
+1. Make a home for your code and then go there, e.g.:
+
+```shell
 mkdir ~/lab/SublimeText
 cd ~/lab/SublimeText
+
 ```
 2. Clone the repo:
-```
+
+```shell
 git clone https://github.com/oubiwann/Theme-VimBlackboard.git
 ```
-3. Change dir to your
-   Sublime Text 2 Packages directory. You can find that directory by selecting
-   "Preferences > Browse Packages ...".
+
+3. Change dir to your Sublime Text 2 Packages directory. You can find that
+   directory by selecting "Preferences > Browse Packages ...".
 4. From the package directory, link to your checkout:
-```
+
+```shell
 ln -s ~/lab/SublimeText/Theme-VimBlackboard/Theme\ -\ VimBlackboard .
 ```
+
 5. Activate the theme by modifying your user preferences to include the
    following:
 
