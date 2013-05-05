@@ -12,19 +12,19 @@
 				<key>background</key>
 				<string>#000000</string>
 				<key>caret</key>
-				<string>#8BA7A7</string>
+				<string>#00f900</string>
 				<key>foreground</key>
 				<string>#00f900</string>
 				<key>invisibles</key>
-				<string>#251708</string>
+				<string>#004100</string>
 				<key>lineHighlight</key>
 				<string>#FFFFFF0D</string>
 				<key>selection</key>
-				<string>#C5DFE980</string>
+				<string>#797979</string>
 				<key>findHighlight</key>
 				<string>#ffe792</string>
 				<key>inactiveSelection</key>
-				<string>#ff7e00</string>
+				<string>#424242</string>
 				<key>gutterForeground</key>
 				<string>#73797b75</string>
 				<key>guide</key>
