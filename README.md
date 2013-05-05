@@ -6,11 +6,12 @@
 
 ## About
 
-VimBlackboard is a simple theme based on Blackboard (as one might imagine).
-Blackboard, in turn, is mostly derived from
-[Flatland](https://github.com/thinkpixellab/flatland), the right place to start
-for any custom theme development for Sublime. Thanks Flatland!
+The syntax highlighting in VimBlackboard is based on Blackboard (as one might
+imagine), but with many of colors changed to resemble the default Vim colors
+used on dark terminals in various Linux distros from the late 90s and early
+00s.
 
+The widget theme is derived from [Soda Dark] (https://github.com/buymeasoda/soda-theme).
 
 ## Installation
 Blackboard is a Sublime package. To install it:
