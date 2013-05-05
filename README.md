@@ -1,5 +1,7 @@
 # VimBlackboard
 
+<img style="float:right" src="Sublime-VimBlackboard-small.png" />
+
 ## About
 
 VimBlackboard is a simple theme based on Blackboard (as one might imagine).
@@ -21,8 +23,8 @@ Blackboard is a Sublime package. To install it:
 
 ```javascript
 {
-  "theme": "Blackboard.sublime-theme",
-  "color_scheme": "Packages/Theme - Blackboard/Blackboard.tmtheme"
+  "theme": "VimBlackboard.sublime-theme",
+  "color_scheme": "Packages/Theme-VimBlackboard/Theme - VimBlackboard/VimBlackboard.tmtheme"
 }
 ```
 
