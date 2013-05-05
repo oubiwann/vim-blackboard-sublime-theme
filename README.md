@@ -7,7 +7,7 @@
 ## About
 
 The syntax highlighting in VimBlackboard is based on Blackboard (as one might
-imagine), but with many of colors changed to resemble the default Vim colors
+imagine), but with many of the colors changed to resemble the default Vim colors
 used on dark terminals in various Linux distros from the late 90s and early
 00s.
 
