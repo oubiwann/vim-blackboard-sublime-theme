@@ -1,6 +1,8 @@
 # VimBlackboard
 
-<img style="float:right" src="Sublime-VimBlackboard-small.png" />
+<a href="Sublime-VimBlackboard.png">
+  <img style="float:right" src="Sublime-VimBlackboard-small.png" />
+</a>
 
 ## About
 
