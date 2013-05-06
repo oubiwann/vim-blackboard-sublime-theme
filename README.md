@@ -48,6 +48,8 @@ Blackboard is a Sublime package. To install it:
     ```
     If you need help locating your user preferences file, you can find it selecting
     "Preferences > Settings - User".
+    
+    Also, in order to see the UI changes you will probably need to restart Sublime Text.
 
 6. Tweak futher by adding folder icons and classic tabs:
 
