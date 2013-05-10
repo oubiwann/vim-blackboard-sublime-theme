@@ -146,6 +146,17 @@
 				<string>#F8F8F8</string>
 			</dict>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>Lisp Parens</string>
+            <key>scope</key>
+            <string>source.parens.lisp</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#666666</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Embedded Source</string>
