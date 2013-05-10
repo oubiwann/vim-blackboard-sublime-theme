@@ -7,7 +7,7 @@
 ## About
 
 The syntax highlighting in VimBlackboard is based on Blackboard (as one might
-imagine), but with many of colors changed to resemble the default Vim colors
+imagine), but with many of the colors changed to resemble the default Vim colors
 used on dark terminals in various Linux distros from the late 90s and early
 00s.
 
@@ -46,6 +46,11 @@ Blackboard is a Sublime package. To install it:
       "color_scheme": "Packages/Theme - VimBlackboard/VimBlackboard.tmTheme"
     }
     ```
+    If you need help locating your user preferences file, you can find it selecting
+    "Preferences > Settings - User".
+    
+    Also, in order to see the UI changes you will probably need to restart Sublime Text.
+
 6. Tweak futher by adding folder icons and classic tabs:
 
     ```javascript
@@ -54,5 +59,3 @@ Blackboard is a Sublime package. To install it:
       "vimbb_classic_tabs": true
     }
     ```
-If you need help locating your user preferences file, you can find it selecting
-"Preferences > Settings - User".
