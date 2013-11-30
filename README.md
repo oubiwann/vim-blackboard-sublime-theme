@@ -1,7 +1,7 @@
 # VimBlackboard
 
-<a href="https://raw.github.com/oubiwann/Theme-VimBlackboard/master/Sublime-VimBlackboard.png">
-  <img style="float:right" src="Sublime-VimBlackboard-small.png" />
+<a href="https://raw.github.com/oubiwann/vim-blackboard-sublime-theme.wiki/master/images/Sublime-VimBlackboard.png">
+  <img style="float:right" src="https://raw.github.com/oubiwann/vim-blackboard-sublime-theme.wiki/master/images/Sublime-VimBlackboard-small.png" />
 </a>
 
 ## About
