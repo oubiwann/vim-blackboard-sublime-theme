@@ -1,8 +1,14 @@
-# VimBlackboard
+# Sublime Text 2 Theme: Vim Blackboard
 
 <a href="https://raw.github.com/wiki/oubiwann/vim-blackboard-sublime-theme/images/Sublime-VimBlackboard.png">
   <img style="float:right" src="https://raw.github.com/wiki/oubiwann/vim-blackboard-sublime-theme/images/Sublime-VimBlackboard-small.png" />
 </a>
+
+This repo is for the Sublime Text 2 theme that is meant to be installed with
+Package Control. If you are looking for the version of the theme that is
+manually installed, the code and instructions for that are
+<a href="https://github.com/oubiwann/Theme-VimBlackboard">here</a>.
+
 
 ## About
 
@@ -13,31 +19,20 @@ used on dark terminals in various Linux distros from the late 90s and early
 
 The widget theme is derived from [Soda Dark] (https://github.com/buymeasoda/soda-theme).
 
+
 ## Installation
+
 Blackboard is a Sublime package. To install it:
 
-1. Make a home for your code and then go there, e.g.:
+1. Be sure to have Package Control installed.
 
-    ```bash
-    mkdir ~/lab/SublimeText
-    cd ~/lab/SublimeText
-    ```
+1. Go to Sublime Text 2 -> Preferences -> Package Control -> install package
 
-2. Clone the repo:
+1. Type "Theme - Vim Blackboard"
 
-    ```bash
-    git clone https://github.com/oubiwann/Theme-VimBlackboard.git
-    ```
+1. Select it and restart Sublime after it has installed
 
-3. Change dir to your Sublime Text 2 Packages directory. You can find that
-   directory by selecting "Preferences > Browse Packages ...".
-4. From the package directory, link to your checkout:
-
-    ```bash
-    ln -s ~/lab/SublimeText/Theme-VimBlackboard/Theme\ -\ VimBlackboard .
-    ```
-
-5. Activate the theme by modifying your user preferences to include the
+1. Activate the theme by modifying your User Preferences to include the
    following:
 
     ```javascript
@@ -46,12 +41,10 @@ Blackboard is a Sublime package. To install it:
       "color_scheme": "Packages/Theme - VimBlackboard/VimBlackboard.tmTheme"
     }
     ```
-    If you need help locating your user preferences file, you can find it selecting
-    "Preferences > Settings - User".
-    
-    Also, in order to see the UI changes you will probably need to restart Sublime Text.
+    If you need help locating your user preferences file, you can find it
+    selecting "Preferences > Settings - User".
 
-6. Tweak futher by adding folder icons and classic tabs:
+1. Tweak futher by adding folder icons and classic tabs:
 
     ```javascript
     {
@@ -59,3 +52,4 @@ Blackboard is a Sublime package. To install it:
       "vimbb_classic_tabs": true
     }
     ```
+1.  In order to see the UI changes you will need to restart Sublime Text.
